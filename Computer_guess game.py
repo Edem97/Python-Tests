@@ -16,4 +16,5 @@ def computer_guess(x):
             low = guess + 1
 
     print('Yay, The computer guessed your number {} correctly'.format(guess))
+    #Try with a high bound of 100
 computer_guess(100)
