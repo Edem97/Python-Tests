@@ -1,5 +1,4 @@
 #Rock paper scissors game
-
 import random
 def play():
     user = input(" Please enter your choice: 'r' for rock, 'p' for paper. 's's for scissors\n")
